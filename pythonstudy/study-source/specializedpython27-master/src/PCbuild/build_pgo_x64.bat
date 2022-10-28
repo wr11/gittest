@@ -1,1 +1,0 @@
-build.bat --pgo -p x64 --pgo-job "-m test.regrtest --pgo --randomize --exclude test_fileio test_ftplib test_mmap test_httpservers test_os test_multiprocessing test_signal test_tempfile test_test_support tf_inherit_check test_urllib"
